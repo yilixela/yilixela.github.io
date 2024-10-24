@@ -1,0 +1,24 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://yilixela.github.io/sitemap/sitemap_index.yilixela
+Sitemap: https://yilixela.github.io/NDt/sitemap_index.yilixela
+Sitemap: https://yilixela.github.io/DKF/sitemap_index.yilixela
+Sitemap: https://yilixela.github.io/RmO/sitemap_index.yilixela
+Sitemap: https://yilixela.github.io/dyq/sitemap_index.yilixela
+Sitemap: https://yilixela.github.io/VhJ/sitemap_index.yilixela
+Sitemap: https://yilixela.github.io/Lcn/sitemap_index.yilixela
+Sitemap: https://yilixela.github.io/XmA/sitemap_index.yilixela
+Sitemap: https://yilixela.github.io/raX/sitemap_index.yilixela
+Sitemap: https://yilixela.github.io/DBq/sitemap_index.yilixela
+Sitemap: https://yilixela.github.io/YOg/sitemap_index.yilixela
+Sitemap: https://yilixela.github.io/luV/sitemap_index.yilixela
+Sitemap: https://yilixela.github.io/UNk/sitemap_index.yilixela
+Sitemap: https://yilixela.github.io/iLE/sitemap_index.yilixela
+Sitemap: https://yilixela.github.io/sVq/sitemap_index.yilixela
+Sitemap: https://yilixela.github.io/RjH/sitemap_index.yilixela
+Sitemap: https://yilixela.github.io/qhy/sitemap_index.yilixela
+Sitemap: https://yilixela.github.io/nEh/sitemap_index.yilixela
+Sitemap: https://yilixela.github.io/gDZ/sitemap_index.yilixela
+Sitemap: https://yilixela.github.io/GVe/sitemap_index.yilixela
+Sitemap: https://yilixela.github.io/msy/sitemap_index.yilixela
